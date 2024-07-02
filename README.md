@@ -3,7 +3,9 @@ This repo is for
 - MIT18.330: Introduction to numerical analysis labs solution.
 - Fundamentals of Numerical Computation exercise solution
 
-Started in 20th June
+
+- Started in 20th June
+- fininsh section 1 in 3rd July
 
 Reference book: https://tobydriscoll.net/fnc-julia/frontmatter.html
 
